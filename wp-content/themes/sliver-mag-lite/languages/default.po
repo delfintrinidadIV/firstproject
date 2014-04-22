@@ -1,0 +1,1087 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SilverMag Pro\n"
+"POT-Creation-Date: 2014-03-27 11:09+0530\n"
+"PO-Revision-Date: 2014-03-27 11:09+0530\n"
+"Last-Translator: RajaCRN <support@themepacific.com>\n"
+"Language-Team: ThemePacific <support@themepacific.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: /home/raja/public_html/themepacific/wp-content/themes/"
+"sliver_mag\n"
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/functions.php:63
+msgid "Secondary Menu"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/functions.php:64
+msgid "Secondary Menu 2"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/page-blog.php:13
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/index.php:33
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/includes/gridview.php:2
+msgid "Recent Posts"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/page-blog.php:70
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/includes/grid_loop.php:9
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/includes/blog_loop.php:10
+msgid "Sorry, no posts to display!"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/404.php:1
+msgid "Page Not Found"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/search.php:1
+#, php-format
+msgid "Search results for \"%s\" "
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/archive.php:10
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/archive.php:12
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/archive.php:14
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/archive.php:16
+#, php-format
+msgid "Category : %s  "
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/archive.php:18
+#, php-format
+msgid "Author : %s"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/archive.php:20
+msgid "Blog Archives"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/single.php:47
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/custom_fn/tpcrn_functions.php:430
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/custom_fn/tpcrn_functions.php:458
+msgid "Edit"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/single.php:79
+msgid "TOPICS"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/single.php:84
+msgid "Share"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/single.php:131
+msgid "About"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/comments.php:1
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/comments.php:1
+#, php-format
+msgid " There is <em>One</em> Comment."
+msgid_plural "There are <em>%1$s</em> Comments."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/comments.php:1
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/comments.php:1
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/comments.php:1
+msgid "&#123; Comments are closed &#125;"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/comments.php:1
+msgid "Name"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/comments.php:1
+msgid "Email"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/comments.php:1
+msgid "Website"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/comments.php:1
+msgid "Leave a Reply"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/searchform.php:1
+msgid "Search here.."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:122
+msgid "General Settings"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:127
+msgid "<h3>General Settings</h3>"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:132
+msgid "Custom Favicon"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:133
+msgid ""
+"Upload a 16px x 16px Png/Gif image that will represent your website favicon"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:138
+msgid "Custom Logo"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:139
+msgid "Upload a Png/Gif image that will represent your website Logo."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:144
+msgid "Custom Feed URL"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:145
+msgid "Enter Feedburner URL or Other"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:150
+msgid "Tracking Code"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:151
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. Dont forget to "
+"add script tags,if not in the code</br><small> &lt;script&gt; ...,.. &lt;/"
+"script&gt; </small>"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:155
+msgid "Show Footer Widgets"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:156
+msgid "Select to show the Footer Widgets."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:161
+msgid "Footer Text"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:162
+msgid "Add the Copyright text info."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:169
+msgid "Home Settings"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:176
+msgid "<h3>Home Page Content Organizer</h3>"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:181
+msgid "Homepage Content Layout Manager"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:182
+msgid "Organize how you want the layout to appear on the homepage"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:188
+msgid "BlogPosts Display Style "
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:189
+msgid "Select style"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:198
+msgid "News Ticker Title"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:203
+msgid "Breaking News Ticker"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:204
+msgid "Select category for Breaking News Ticker."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:209
+msgid "Enter Number of  News Ticker Posts"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:216
+msgid "HomePage Slider"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:217
+msgid "Show HomePage slider Options"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:224
+msgid "Select a Category or use Theme Slider options"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:225
+msgid ""
+"Select category for slider. If you want to use theme slider options,then "
+"leave it to default option."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:232
+msgid "Theme Slider Options, use Page IDs"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:238
+msgid "Slider Transition "
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:239
+msgid "Select Slider transition"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:248
+msgid "Feature Catgeory next to Slider"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:249
+msgid "Select category for slider. "
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:255
+msgid "Single Posts"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:260
+msgid "<h3>Single Posts Settings</h3>"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:264
+msgid "Show Featured image on posts"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:272
+msgid "Show Single Post Next/Prev navigation"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:280
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:289
+msgid "Show related posts on posts"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:290
+msgid "Check to Show related posts on posts"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:298
+msgid "Show related posts by Category Wise or Tag Wise"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:308
+msgid "Enter Number of Posts"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:316
+msgid "Show Tags on posts"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:324
+msgid "Show About Author Box "
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:325
+msgid "Select to show the Author Box in Single Posts"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:340
+msgid "<h3>Share Posts in Social Networks</h3>"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:347
+msgid "Social Profile Icons "
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:348
+msgid "Select to enable/disable to show the social Icons in the Ticker side."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:355
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/socialnw-widget.php:99
+msgid "Facebook"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:356
+msgid "Add the URL you want and Facebook icon will appear."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:360
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/socialnw-widget.php:99
+msgid "Twitter"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:361
+msgid "Enter the Twitter Profile URL"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:366
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/socialnw-widget.php:99
+msgid "Google+"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:367
+msgid "Enter Google+ URL. </br>"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:372
+msgid "YouTube"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:373
+msgid "Enter YouTube URL"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:378
+msgid "Vimeo"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:379
+msgid "Enter Vimeo URL"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:386
+msgid "Social Shares in Single Posts"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:387
+msgid "Select to enable/disable to show the social Shares in Single Posts."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:395
+msgid "Twitter Consumer Key"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:396
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:402
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:408
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:414
+msgid "For Social Counter Widget"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:401
+msgid "Twitter Consumer Secret"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:407
+msgid "Twitter Access Token"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:413
+msgid "Twitter Access Token secret"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:419
+msgid "Facebook Like"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:420
+msgid "Select to enable/disable to show the Facebook Like in Single Posts."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:428
+msgid "Google +1 button"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:429
+msgid "Select to enable/disable to show the Google +1 button in Single Posts."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:436
+msgid "Twitter Tweet"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:437
+msgid ""
+"Select to enable/disable to show the Twitter Tweet button in Single Posts."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:445
+msgid "Pin it Button"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:446
+msgid "Select to enable/disable to show the Pin it Button in Single Posts."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:454
+msgid "LinkedIn  Button"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:455
+msgid "Select to enable/disable to show the LinkedIn in Single Posts."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:467
+msgid "Ad Banners"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:472
+msgid "<h3>Advertisements Settings</h3>"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:476
+msgid "Header Ad"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:477
+msgid "Show Header Ad box"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:484
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:507
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:531
+msgid "Upload Ad Banner Image"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:485
+msgid ""
+"Upload a 468x60 or 728x90 Banner Ad image. </br></br><li>If you want to show "
+"Banner, Upload Banner Ad Image and enter the Banner URL Below.</li><li>If "
+"you want to show Adsense like ads, then remove the Banner image and add the "
+"code below</li>"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:490
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:513
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:537
+msgid "Enter AD Code or Banner AD URL"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:491
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:514
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:538
+msgid ""
+"Enter your Ad code like Adsense Scripts here OR Enter Banner AD URL only.</"
+"br></br>\n"
+"\t\t\t\t\t<li>If you want to show Adsense like ads, then add Ad code.</"
+"li><li>If you want to show Banner ad,then remove the Ad Code and add Banner "
+"URL</li>"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:499
+msgid "Show Ad the in Beginning of Post"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:500
+msgid ""
+"Enter your Ad code here. This will be added into the Post after the Post "
+"title."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:508
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:532
+msgid ""
+"Upload a Banner Ad image. </br></br><li>If you want to show Banner, Upload "
+"Banner Ad Image and enter the Banner URL Below.</li><li>If you want to show "
+"Adsense like ads, then remove the Banner image and add the code below</li>"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:523
+msgid "Show Ad in the End of Post"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:524
+msgid "Enter your Ad code here. This will be added into the end of the post."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:549
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:560
+msgid "Theme Skins"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:554
+msgid "<h3>Stylish Theme Skins</h3>"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:577
+msgid "Typography"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:580
+msgid "Typography Settings"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:586
+msgid "Body Font"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:587
+msgid "Specify the body font properties"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:591
+msgid "Top Menu Navigation"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:592
+msgid "Specify the Header Top Menu font properties"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:596
+msgid "Category Menu Navigation"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:597
+msgid "Specify the Category Menu Navigation font properties"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:601
+msgid "Blog and Magazine Category Title"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:602
+msgid "Specify the Blog and Magazine Category Title font properties"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:606
+msgid "HomePage Blog Post Title"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:607
+msgid "Specify the Blog  Post Title font properties"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:611
+msgid "HomePage Magazine Post Title"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:612
+msgid "Specify the Magazine Post Title font properties"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:616
+msgid "Sidebar Widget Title"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:617
+msgid "Specify the Sidebar Widget Title font properties"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:621
+msgid "Footer Blocks Widget Title"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:622
+msgid "Specify the Footet Blocks Widget Title font properties"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:627
+msgid "Typography Post elements Settings"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:635
+msgid "Post Title"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:636
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:641
+msgid "Specify the Single Post Title font properties"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:640
+msgid "Post Meta"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:645
+msgid "Post Content"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:646
+msgid "Specify the Post Content font properties"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:651
+msgid "Single Post Navigation"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:652
+msgid "Specify Single Post and comment navigation font properties"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:656
+msgid "Comments Block"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:657
+msgid "Specify the Comments Block content font properties"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:661
+msgid "Typography Post Content Headings Settings"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:668
+msgid "H1 Headings"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:669
+msgid "Specify the H1 Headings font properties"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:674
+msgid "H2 Headings"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:675
+msgid "Specify the H2 Headings font properties"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:680
+msgid "H3 Headings"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:681
+msgid "Specify the H3 Headings font properties"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:686
+msgid "H4 Headings"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:687
+msgid "Specify the H4 Headings font properties"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:692
+msgid "H5 Headings"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:693
+msgid "Specify the H5 Headings font properties"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:698
+msgid "H6 Headings"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:699
+msgid "Specify the H6 Headings font properties"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:706
+msgid "Styling"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:708
+msgid "Site Styling Settings Page"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:716
+msgid "Body Background Color"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:717
+msgid "Pick a background color for the theme."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:723
+msgid "Background Patterns"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:731
+msgid "Upload Background Pattern"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:732
+msgid ""
+"Upload a Custom background pattern.</br></br><b>Note:</b>If you want to show "
+"default background pattern then remove the custom Pattern"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:737
+msgid "Custom Pattern as Full Screen background"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:738
+msgid "To Show Custom Pattern as Full Screen background"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:744
+msgid "Custom CSS"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:745
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:751
+msgid "Backup Options"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:756
+msgid "<h3>Backup and Restore</h3>"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:760
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:764
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:767
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/functions/functions.options.php:771
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\".\n"
+"\t\t\t\t\t\t"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/social_counter_widget.php:70
+msgid "Subscribe"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/social_counter_widget.php:70
+msgid "Subscribers"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/social_counter_widget.php:71
+msgid "Feed"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/social_counter_widget.php:80
+msgid "Followers"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/social_counter_widget.php:94
+msgid "Likes"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/popular-posts-widget.php:32
+msgid "A Widget to dispaly Popular Posts With Thumbs"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/popular-posts-widget.php:33
+msgid "ThemePacific : Popular Posts Widget"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/popular-posts-widget.php:98
+msgid "Popular Posts "
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/popular-posts-widget.php:102
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/flickr-widget.php:1
+msgid "Title:"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/popular-posts-widget.php:108
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/widget-blog_carousel.php:111
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/slide_tabs.php:145
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/category-post2-widget.php:122
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/category-post-widget.php:112
+msgid "Number of Posts to Show:"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/socialnw-widget.php:99
+msgid "Social"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/socialnw-widget.php:99
+msgid "RSS"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/login-widget.php:58
+msgid "Author Login"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/widget-tweet.php:90
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/widget-tweet.php:92
+msgid "Y/m/d"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/widget-tweet.php:93
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/widget-tweet.php:93
+msgid "Y/m/d H:i:s"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/widget-tweet.php:125
+msgid "@Follow Me"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/widget-blog_carousel.php:31
+msgid "A Widget to dispaly Carousel slider"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/widget-blog_carousel.php:32
+msgid "ThemePacific : Carousel Widget"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/widget-blog_carousel.php:101
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/category-post2-widget.php:112
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/category-post-widget.php:102
+msgid "Category Name "
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/widget-blog_carousel.php:105
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/category-post2-widget.php:116
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/category-post-widget.php:106
+msgid "Enter category Name:"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/slide_tabs.php:31
+msgid "Stylish Tabbed Widget to dispaly Popular and Recent Posts,tags"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/slide_tabs.php:32
+msgid "ThemePacific : Tabbed Widget"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/slide_tabs.php:47
+msgid "Popular"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/slide_tabs.php:48
+msgid "Recent"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/slide_tabs.php:49
+msgid "Tags"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/slide_tabs.php:142
+msgid "To Show Recent Posts and Popular Posts in Stylish Tabbed Content Format"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/widget-video.php:55
+msgid " Featured Video"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/widget-sbbanner.php:35
+msgid "Widget will display Single sb Ad , in your sidebar."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/widget-sbbanner.php:36
+msgid "ThemePacific: sb Banner Ad"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/widget-sbbanner.php:73
+msgid ""
+"For Banner :</br> <strong>&lt;img src=&quot;BANNER-URL-HERE&quot;/&gt;</"
+"strong>"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/widget-sbbanner.php:74
+msgid ""
+"For Banner With link :</br> <strong>&lt;a href=&quot;AD-LINK-HERE&quot;&gt;"
+"&lt;img src=&quot;BANNER-URL-HERE&quot;/&gt;&lt;/a&gt;</strong>"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/widget-sbbanner.php:75
+msgid ""
+"For Banner With link open new windows :</br><strong> &lt;a href=&quot;AD-"
+"LINK-HERE&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;BANNER-URL-"
+"HERE&quot;/&gt;&lt;/a&gt;</strong>"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/widget-sbbanner.php:78
+msgid "Enter sb Ad Code:"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/category-post2-widget.php:31
+msgid "A Widget to dispaly Category Posts single Thumb"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/category-post2-widget.php:32
+msgid "ThemePacific : Category Posts2 Widget"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/category-post-widget.php:31
+msgid "A Widget to dispaly Category Posts With Thumbs"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/category-post-widget.php:32
+msgid "ThemePacific : Category Posts Widget"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/flickr-widget.php:1
+msgid "A Flickr widget to Display flickr photo streams"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/flickr-widget.php:1
+msgid "ThemePacific : Flickr"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/flickr-widget.php:1
+msgid "Flickr "
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/flickr-widget.php:1
+msgid "0"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/flickr-widget.php:1
+msgid "Flickr ID:"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/flickr-widget.php:1
+msgid "Number of Photos to Display:"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/flickr-widget.php:1
+msgid "Type (user or group):"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/widgets/flickr-widget.php:1
+msgid "Display (random or latest):"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/front-end/options.php:57
+msgid "Save All Changes"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/front-end/options.php:58
+msgid "Options Reset"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/admin/classes/class.options_machine.php:1090
+msgid "Last Backup:"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/includes/flex-slider.php:71
+msgid "View Post"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/includes/related.php:39
+msgid "Related Posts"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/includes/related.php:74
+msgid "No posts found."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/custom_fn/tpcrn_functions.php:127
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/custom_fn/tpcrn_functions.php:150
+msgid "Howdy!"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/custom_fn/tpcrn_functions.php:153
+msgid "Dashboard"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/custom_fn/tpcrn_functions.php:154
+msgid "Your Profile"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/custom_fn/tpcrn_functions.php:155
+msgid "Logout"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/custom_fn/tpcrn_functions.php:163
+msgid "Username"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/custom_fn/tpcrn_functions.php:164
+msgid "Password"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/custom_fn/tpcrn_functions.php:165
+msgid "Log in"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/custom_fn/tpcrn_functions.php:166
+msgid "Remember Me"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/custom_fn/tpcrn_functions.php:170
+msgid "Register"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/custom_fn/tpcrn_functions.php:171
+msgid "Lost your password?"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/custom_fn/tpcrn_functions.php:255
+msgid "<i class=\"icon-double-angle-left\"></i>"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/custom_fn/tpcrn_functions.php:256
+msgid "<i class=\"icon-double-angle-right\"></i>"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/custom_fn/tpcrn_functions.php:338
+msgid "Next"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/custom_fn/tpcrn_functions.php:339
+msgid "Previous"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/custom_fn/tpcrn_functions.php:430
+msgid "Pingback:"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/custom_fn/tpcrn_functions.php:448
+#, php-format
+msgid "%1$s  %2$s  "
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/custom_fn/tpcrn_functions.php:453
+#, php-format
+msgid "<span class=\"time\">%1$s </span>"
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/custom_fn/tpcrn_functions.php:462
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: /home/raja/public_html/themepacific/wp-content/themes/sliver_mag/custom_fn/tpcrn_functions.php:468
+msgid " <span><i class=\"icon-reply\"></i></span> Reply"
+msgstr ""
